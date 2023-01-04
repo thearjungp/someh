@@ -1,0 +1,8 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzEwOGEzMmM0MmRmZDFhOWVlMDk2ZTYiLCJ1bmFtZSI6IkFyanVuIiwiaWF0IjoxNjY0Mzc1NTc3fQ.YltsSnSs_HXvLaAlnx8Zm0jtvpOipVMCDnWdVab7GWQ",
+  "user": {
+    "id": "63108a32c42dfd1a9ee096e6",
+    "username": "Arjun",
+    "email": "arjun@arjun.com"
+  }
+}
